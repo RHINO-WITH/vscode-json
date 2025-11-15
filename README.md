@@ -1,3 +1,4 @@
+
 # Json for Visual Studio Code
 [![VisualStudioMarketplace](https://img.shields.io/badge/VisualStudioMarketplace-v2.0.2-orange.svg)](https://marketplace.visualstudio.com/items?itemName=ZainChen.json)
 [![Downloads](https://img.shields.io/badge/Downloads-305k%2B-brightgreen.svg)](https://marketplace.visualstudio.com/items?itemName=ZainChen.json)
